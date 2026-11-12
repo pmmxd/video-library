@@ -19,6 +19,7 @@ QtMultimedia。软件只管理用户主动添加的资源库，视频文件和�
 - 可选后缀伪装、隔离资源库和界面访问密码。
 - FFmpeg 裁剪、LosslessCut 外部编辑、导出、移动和回收站删除。
 - 文件变化监听、手动增量刷新和 SQLite 索引。
+<img width="3160" height="1854" alt="image" src="https://github.com/user-attachments/assets/c888d1ee-cced-4ffa-99b2-55d74a9e6f4b" />
 
 ## 系统要求
 
